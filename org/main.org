@@ -1,0 +1,40 @@
+#+TITLE: Test
+
+#+options: html-link-use-abs-url:nil html-postamble:auto
+#+options: html-preamble:t html-scripts:nil html-style:t
+#+options: html5-fancy:nil tex:t
+#+html_doctype: xhtml-strict
+#+html_container: div
+#+html_content_class: content
+#+description:
+#+keywords:
+#+html_link_home:
+#+html_link_up:
+#+html_mathjax:
+#+html_equation_reference_format: \eqref{%s}
+#+html_head:
+#+html_head_extra:
+#+subtitle:
+#+infojs_opt:
+#+creator: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 29.1 (<a href="https://orgmode.org">Org</a> mode 9.6.6)
+#+latex_header:
+
+
+#+latex_class: article
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_engraved_theme:
+#+latex_compiler: pdflatex
+#+date: \today
+
+
+* Oui
+aezaea
+* Non
+aaaaaa
+
+
