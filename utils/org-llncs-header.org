@@ -1,0 +1,13 @@
+#+AUTHOR:    Clément Chomicki
+#+EMAIL:     clement.chomicki@edu.esiee.fr
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  fr
+
+#+LaTeX_CLASS: llncs
+
+# #+LATEX_HEADER: \usecolortheme[dark]{solarized}
+
+#+LATEX_HEADER: \institute{Laboratoire d'Informatique Gaspard-Monge}
+
+#+LaTeX_HEADER: \include{org-solarized-dark.tex}

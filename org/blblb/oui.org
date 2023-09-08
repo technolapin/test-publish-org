@@ -1,5 +1,6 @@
 #+TITLE: Test
 
+
 #+options: html-link-use-abs-url:nil html-postamble:auto
 #+options: html-preamble:t html-scripts:nil html-style:t
 #+options: html5-fancy:nil tex:t
@@ -20,17 +21,17 @@
 #+latex_header:
 
 
-
-#+latex_class: article
+#+latex_class: llncs
 #+latex_class_options:
 #+latex_header:
 #+latex_header_extra:
 #+description:
-#+keywords:
-#+subtitle:
+#+keywords: Geometric algebra, Wavejets
+#+subtitle: I have no idea
 #+latex_engraved_theme:
 #+latex_compiler: pdflatex
 #+date: \today
+
 
 
 * Oui

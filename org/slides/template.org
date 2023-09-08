@@ -1,0 +1,41 @@
+#+include: ../../utils/org-beamer-header.org
+
+
+
+#+TITLE: Réunion [date nulle]
+#+SUBTITLE: Sous titre bidon
+
+
+
+* PARTIE I
+** Slide a
+   [[../figures/blender_wavejet_01.jpg]]
+** Slide b
+
+   + du texte nul
+   + point inutile
+* PARTIE II
+** Slide a
+*** Haut
+    test
+*** Bas
+    oui
+** Slide b
+*** 
+   :PROPERTIES:
+    :BEAMER_col: 0.5
+    :BEAMER_env: beamercolorbox
+    :BEAMER_envargs: <2->
+    :END:    
+    aaaa
+*** Droite
+   :PROPERTIES:
+    :BEAMER_col: 0.5
+    :BEAMER_env: block
+    :BEAMER_envargs: <2->
+    :END:    
+     azaeaezae
+
+
+     
+     
